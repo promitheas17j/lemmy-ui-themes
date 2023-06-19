@@ -1,6 +1,9 @@
 # lemmy-ui-themes
 custom lemmy themes for lemmy-ui
 
+[Forked from 2xx04](https://github.com/2xx04/lemmy-ui-themes/)
+
+
 ## Minty Bubble
 Based on the default lemmy theme Minty
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/mintybubble.png)
@@ -13,6 +16,14 @@ Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqo
 
 ## Lora
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/lora-distractionless.png)
+
+## Icy Nord
+Based on 2xx04's theme "Winter Nord"
+![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/icy-nord.png)
+
+## Icy Nord Darker
+Based on 2xx04's theme "Winter Nord"
+![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/icy-nord-darker.png)
 
 ---
 

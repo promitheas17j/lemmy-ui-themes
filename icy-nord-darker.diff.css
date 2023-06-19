@@ -1,0 +1,247 @@
+:root
+{
+	--ice-blue: #8999b9;
+}
+
+body
+{
+	background-color: var(--secondary) !important;
+	background-image: none !important;
+}
+
+/* container for posts in the feed */
+.post-listing
+{
+	background: #3b4252;
+	padding: 20px;
+	border-radius: 4px;
+}
+
+label.btn.btn-outline-secondary.pointer.false
+{
+	background: #2e3440;
+	color: var(--ice-blue);
+}
+
+hr.my-3
+{
+	opacity: 0;
+}
+
+.my-3
+{
+	margin-top: 0.5rem !important;
+	margin-bottom: 0.5rem !important;
+}
+
+h5.mb-0,
+h5.mb-2
+{
+	color: white;
+}
+
+/* default (?) text */
+.text-muted
+{
+	color: lightgrey !important;
+}
+
+.comments
+{
+	background: #3b4252;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+span.mr-2
+{
+	color: var(--ice-blue) !important;
+}
+
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.table-responsive table#community_table.table.table-sm.table-hover
+{
+	background: #3b4252;
+}
+
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 h4
+{
+	color: #c6c6c6;
+}
+
+html body div#root div nav.container.navbar.navbar-expand-md.navbar-light.navbar-bg.p-3
+{
+	background: transparent;
+}
+
+/* Transparent Background color */
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3 form
+{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+/* Login Background color */
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.table-responsive table#modlog_table.table.table-sm.table-hover
+{
+	background-color: rgb(0, 0, 0, 0.4);
+}
+
+/* modlog background color*/
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div.mb-2 div.position-relative.mb-2 picture img.img-fluid.banner.img-expanded.slight-radius
+{
+	border-radius: 4px;
+}
+
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5,
+html body div#root div div.mt-4.p-0.fl-1 div.container div h5 span
+{
+	color: lightgrey;
+}
+
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div div.comments div.comment div.comments
+{
+	padding: 0px;
+}
+
+.col-12.col-md-8,
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4
+{
+	background-color: rgb(0, 0, 0, 0.3);
+	padding-top: 10px !important;
+}
+
+.mt-4,
+.my-4
+{
+	margin-top: 0rem !important;
+}
+
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row main.col-12.col-md-8 div.main-content-wrapper,
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row aside.d-none.d-md-block.col-md-4,
+div.col-12:nth-child(2),
+.d-md-block>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8.mb-3 div.post-listing,
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-lg-6.offset-lg-3.mb-4 h5,
+h5.mb-2,
+.nav,
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 h4,
+html body div#root div div.mt-4.p-0.fl-1 div.container div div.row div.col-md-6 div.float-md-right form.form-inline,
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row div.col-12.col-md-8 div div.position-relative.mb-2,
+html body div#root div div.mt-4.p-0.fl-1 div.container div.row main.col-12.col-md-8 div.d-block.d-md-none div.row div.col-12 button.btn.btn-secondary.d-inline-block.mb-2.mr-3
+{
+	margin-top: 1.5rem;
+}
+
+.mark
+{
+	background-color: #606b85;
+}
+
+.row
+{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px;
+	background-color: transparent;
+}
+
+.navbar
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 10px;
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+}
+
+/* top and bottom navbars */
+.navbar,
+comments
+{
+	background: #3b4252;
+	background-color: transparent;
+	margin-top: 0.4rem;
+	margin-bottom: 0.7rem !important;
+	border-radius: 10px;
+}
+
+/* pinned post icon */
+.text-secondary
+{
+	color: #d6e4ff !important;
+}
+
+.col-12.col-md-8
+{
+	background-color: transparent;
+}
+
+.container-lg
+{
+	background-color: rgb(0, 0, 0, 0.6);
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 10px !important;
+}
+
+/* top navbar */
+.navbar .container,
+.navbar .container-fluid,
+.navbar .container-lg,
+.navbar .container-md,
+.navbar .container-sm,
+.navbar .container-xl
+{
+	border-radius: 10px;
+}
+
+/* bottom navbar */
+.container-lg.navbar.navbar-expand-md.navbar-light.navbar-bg.p-3
+{
+	margin-top: 10px;
+}
+
+.col-sm-2.pr-0
+{
+	background-color: transparent;
+}
+
+.d-inline-block
+{
+	color: var(--ice-blue);
+}
+
+.btn-link
+{
+	background: none;
+}
+
+div.col-md-6
+{
+	background-color: transparent;
+}
+
+.comments
+{
+	background: var(--gray-dark);
+}
+
+.comment-node
+{
+	background-color: var(--gray) !important;
+	margin-top: 1px;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+.alert-warning
+{
+	color: var(--yellow);
+	font-weight: bold;
+	background: var(--red);
+	border-color: var(--warning)
+}
