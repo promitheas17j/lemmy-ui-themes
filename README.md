@@ -19,11 +19,11 @@ Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqo
 
 ## Icy Nord
 Based on 2xx04's theme "Winter Nord"
-![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/icy-nord.png)
+![](https://github.com/promitheas17j/lemmy-ui-themes/raw/main/screenshots/icy-nord.png)
 
 ## Icy Nord Darker
 Based on 2xx04's theme "Winter Nord"
-![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/icy-nord-darker.png)
+![](https://github.com/promitheas17j/lemmy-ui-themes/raw/main/screenshots/icy-nord-darker.png)
 
 ---
 
