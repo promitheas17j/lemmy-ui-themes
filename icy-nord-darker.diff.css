@@ -258,3 +258,37 @@ button.form-select
 {
 	background-color: var(--light);
 }
+
+.btn-outline-secondary
+{
+	color: var(--ice-blue);
+	background-color: var(--gray-dark);
+	border-color: var(--dark);
+}
+
+label.btn.btn-outline-secondary.pointer.false
+{
+	background: var(--gray-dark);
+	color: var(--ice-blue);
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled).active,
+.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.show>.btn-outline-secondary.dropdown-toggle
+{
+	color: var(--info);
+	background-color: var(--gray);
+	border-color: var(--dark);
+}
+
+/* controls colours of notification icon */
+.text-bg-light
+{
+	color: var(--light) !important;
+	background-color: var(--indigo) !important;
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+	color: var(--cyan)
+}
