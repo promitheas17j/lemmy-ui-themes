@@ -247,7 +247,18 @@ div.col-md-6
 
 .alert-warning
 {
-	color: var(--gray-dark);
-	background: var(--red);
-	border-color: var(--warning)
+	color: var(--gray);
+	background: var(--cyan);
+	border-color: var(--red)
+}
+
+select.form-select
+{
+	color: var(--ice-blue);
+	background-color: var(--gray-dark);
+}
+
+button.form-select
+{
+	background-color: var(--gray-dark);
 }
