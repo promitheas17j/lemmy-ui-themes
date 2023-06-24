@@ -30,7 +30,7 @@ Based on 2xx04's theme "Winter Nord"
 ### FOR INSTANCE OWNERS:
 
 #### How to install theme:
-<sub>from https://github.com/LemmyNet/lemmy-docs/blob/main/src/en/administration/theming.md</sub>
+<sub>from https://github.com/LemmyNet/lemmy-docs/blob/main/src/administration/theming.md</sub>
 
 > If you installed Lemmy with Docker, save your theme file to ./volumes/lemmy-ui/extra_themes. For native installation (without Docker), themes are loaded by lemmy-ui from ./extra_themes folder. A different path can be specified with LEMMY_UI_EXTRA_THEMES_FOLDER environment variable.
 
