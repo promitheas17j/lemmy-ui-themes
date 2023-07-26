@@ -292,3 +292,25 @@ label.btn.btn-outline-secondary.pointer.false
 {
 	color: var(--cyan)
 }
+
+.col
+{
+	min-width: auto;
+}
+
+input[type=radio]
+{
+	display: none;
+}
+
+.d-inline
+{
+	color: var(--ice-blue) !important;
+	text-decoration-color: var(--ice-blue) !important;
+}
+
+.post-title a:hover
+{
+	color: var(--ice-blue) !important;
+	text-decoration-color: var(--ice-blue) !important;
+}

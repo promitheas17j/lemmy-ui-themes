@@ -290,3 +290,30 @@ button.form-select
 {
 	color: var(--dark)
 }
+
+.col
+{
+	min-width: auto;
+}
+
+input[type=radio]
+{
+	display: none;
+}
+
+.d-inline
+{
+	color: var(--ice-blue) !important;
+	text-decoration-color: var(--ice-blue) !important;
+}
+
+.post-title a:hover
+{
+	color: var(--ice-blue) !important;
+	text-decoration-color: var(--ice-blue) !important;
+}
+
+.navbar
+{
+	background-color: rgb(0, 0, 0, 0.3);
+}
