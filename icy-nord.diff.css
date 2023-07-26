@@ -317,3 +317,13 @@ input[type=radio]
 {
 	background-color: rgb(0, 0, 0, 0.3);
 }
+
+code
+{
+	color: var(--info);
+}
+
+pre code
+{
+	color: var(--info);
+}

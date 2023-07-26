@@ -314,3 +314,13 @@ input[type=radio]
 	color: var(--ice-blue) !important;
 	text-decoration-color: var(--ice-blue) !important;
 }
+
+code
+{
+	color: var(--info);
+}
+
+pre code
+{
+	color: var(--info);
+}
