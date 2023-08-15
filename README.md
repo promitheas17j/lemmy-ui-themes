@@ -6,15 +6,19 @@ custom lemmy themes for lemmy-ui
 
 ## Minty Bubble
 Based on the default lemmy theme Minty
+(Visit https://github.com/2xx04/lemmy-ui-themes to get this theme)
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/mintybubble.png)
 ## Winter Nord
 Based on the default lemmy theme Nord
+(Visit https://github.com/2xx04/lemmy-ui-themes to get this theme)
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/winternord.png)
 ## Dark Space
 Based on the default lemmy theme "Darkly", inspired by [Disqordia](https://disqordia.space) theme
+(Visit https://github.com/2xx04/lemmy-ui-themes to get this theme)
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/darkspace.png)
 
 ## Lora
+(Visit https://github.com/2xx04/lemmy-ui-themes to get this theme)
 ![](https://github.com/2xx04/lemmy-ui-themes/raw/main/screenshots/lora-distractionless.png)
 
 ## Icy Nord
