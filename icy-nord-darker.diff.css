@@ -240,6 +240,11 @@ div.col-md-6
 	border-radius: 4px;
 }
 
+alert .d-inline
+{
+	color: var(--bs-danger) !important;
+}
+
 .alert-warning
 {
 	color: var(--gray);
