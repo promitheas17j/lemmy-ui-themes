@@ -15621,3 +15621,9 @@ pre code
 {
 	color: var(--info);
 }
+
+.alert .d-inline
+{
+	color: var(--bs-danger) !important;
+}
+
