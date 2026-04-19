@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository has been migrated to https://codeberg.org/promitheas/lemmy-ui-themes
+
 # lemmy-ui-themes
 custom lemmy themes for lemmy-ui
 
